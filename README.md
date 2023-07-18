@@ -20,8 +20,4 @@ Just take a look at the title.
 
 To quote ex-github user [Groctel](https://github.com/Groctel)
 > I, as many others, don't trust that company and don't like the way they handle their products.
-> After Microsoft made GitHub Copilot a paid proprietary tool that thanklessly fed on the work of hundreds of thousands of free software writers' work disregarding their licences and intellectual property rights, I decided to ditch yet another Microsoft product for good.
-
----
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F6DNL2A)
+> After Microsoft made GitHub Copilot a paid proprietary tool that thanklessly fed on the work of hundreds of thousands of free software writers' work disregarding their licences and intellectual property rights, I decided to ditch yet another Microsoft prod
