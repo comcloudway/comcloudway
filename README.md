@@ -8,16 +8,6 @@ Well that was not by accident...
 
 I decided to finally move my personal projects to 
 [codeberg](https://codeberg.org/comcloudway) and 
-[gitlab](https://gitlab.com/comcloudway)
+[sourcehut](https://sr.ht/~comcloudway/).
 
-Most of my personal projects can be found over on codeberg,
-some ef them are being mirrored to gitlab, but my gitlab account is mostly being used for collaboration.
-
-**NOTE**: The repos I've contributed to will stay here (as long as those projects continue using github)
-
-## Why?
-Just take a look at the title.
-
-To quote ex-github user [Groctel](https://github.com/Groctel)
-> I, as many others, don't trust that company and don't like the way they handle their products.
-> After Microsoft made GitHub Copilot a paid proprietary tool that thanklessly fed on the work of hundreds of thousands of free software writers' work disregarding their licences and intellectual property rights, I decided to ditch yet another Microsoft prod
+You can find a full list of git hosting sites I'm using on [my website](https://ccw.icu)
